@@ -2,6 +2,6 @@
 
 A simple Login And Sign In Page using PHP
 
-##Bugs to solve
+## Bugs to solve
 
 - Validate Function not working
